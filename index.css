@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/56-wendy-edelson.jpg");
+}
+.container{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row{
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+}
